@@ -31,7 +31,7 @@ This project utilizes the following technologies and libraries:
 - Scikit-learn for building and evaluating the machine learning model
 
 ## Authors
-[rekimchuk13](Link to your GitHub profile)
+[rekimchuk13](https://github.com/rekimchuk13)
 
 ## License
 MIT
