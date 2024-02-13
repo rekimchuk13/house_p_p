@@ -12,6 +12,9 @@ git clone https://github.com/rekimchuk13/house_p_p.git
 2. Install the required dependencies:
 pip install -r requirements.txt
 
+3. Launch Jupyter Notebook to view the analysis:
+jupyter notebook tech_task.ipynb
+
 4. Execute `main.py` to run the prediction model:
 python main.py
 
